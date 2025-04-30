@@ -41,3 +41,5 @@ Build/
 *.a
 *.bmp
 *.tga
+
+git add -f Content/
