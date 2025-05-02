@@ -43,3 +43,4 @@ Build/
 *.tga
 
 git add -f Content/
+!Content/**/*.uasset
